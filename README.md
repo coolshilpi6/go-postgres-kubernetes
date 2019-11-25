@@ -3,5 +3,6 @@ This repo contains code that uses go front end and postgres back end
 
 References:
 
-https://www.callicoder.com/deploy-containerized-go-app-kubernetes/
-https://severalnines.com/database-blog/using-kubernetes-deploy-postgresql
+1) https://www.callicoder.com/deploy-containerized-go-app-kubernetes/
+
+2) https://severalnines.com/database-blog/using-kubernetes-deploy-postgresql
